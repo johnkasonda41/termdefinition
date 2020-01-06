@@ -17,3 +17,6 @@ status shows the state of the working directory and the staging area.
 
 # Stage
 To stage a file is simply to prepare it finely for a commit. Git, with its index allows you to commit only certain parts of the changes you have done since the last commit.
+
+# Merge
+Merging is Gits way of putting a forked history back together again. The merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
