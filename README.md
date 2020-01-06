@@ -14,3 +14,6 @@ A remote in Git is a common repository that all team members use to exchange cha
 
 # Status
 status shows the state of the working directory and the staging area.
+
+# Stage
+To stage a file is simply to prepare it finely for a commit. Git, with its index allows you to commit only certain parts of the changes you have done since the last commit.
