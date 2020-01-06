@@ -8,3 +8,6 @@ Branch is a unique set of code changes with a unique name. Each repository can h
 
 # Commit
 A commit or revision is an individual change to a file (or set of files).
+
+# Remote
+A remote in Git is a common repository that all team members use to exchange changes. 
